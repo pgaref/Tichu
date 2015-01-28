@@ -1,5 +1,7 @@
 # Tichu
 Tichu Card Game Java Implementation with user graphics interface!
+Game is implemented based on the MVC model.
+View was mainly implemented using AWT.
 
 GameMaster class and its dependencies in UML:
 
